@@ -1,0 +1,33 @@
+// Colours
+$primary-colour: #2E1111;
+$text-colour: #FFFFFF;
+$link-colour: #9BFF8B;
+$focus-colour: #D1EEEE;
+$nav-colour: #44201C;
+
+// width
+$max-width: 900px;
+$content-width: 650px;
+
+// px to rem function
+@function remify($value) {
+  @if unitless($value) {
+    $value: $value * 1px;
+  }
+
+  @return calc(($value / 16px) * 1rem); 
+}
+
+// media queries
+
+@mixin media-query($breakpoint) {
+  $breakpoint-map: (
+    s: 320px,
+    m: 641px,
+    l: 961px
+  );
+
+  @media screen and (min-width: map-get($breakpoint-map, $breakpoint)) {
+    @content;
+  }
+}

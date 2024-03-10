@@ -1,0 +1,16 @@
+@use "utility";
+
+.width-container {
+  max-width: utility.$max-width;
+  margin: 0 20px;
+
+  @include utility.media-query(l) {
+    margin: 0 auto;
+  }
+}
+
+.width-container__content {
+  @include utility.media-query(m) {
+    max-width: utility.$content-width;
+  }
+}

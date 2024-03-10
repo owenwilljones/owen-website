@@ -1,0 +1,8 @@
+@use "utility";
+
+body {
+  background-color: utility.$primary-colour;
+  color: utility.$text-colour;
+  font-family: 'Jost', arial, sans-serif;
+  margin: 0;
+}
