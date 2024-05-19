@@ -1,6 +1,7 @@
 ---
 layout: layout.njk
 title: Stuff I've done
+description: Things that Owen Jones' has done and worked on
 ---
 
 Here are some things I've worked on and am currently working on that I think are noteworthy.

@@ -1,6 +1,7 @@
 ---
 layout: layout.njk
 title: About me
+description: The professional life of Owen Jones
 ---
 
 ## How I got here
