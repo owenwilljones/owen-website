@@ -8,17 +8,19 @@ Here are some things I've worked on and am currently working on that I think are
 
 ## Working on
 
-### Adjusting our responsive type scale
+### This website
 
-I've spent the last couple of years leading on the implementation, planning and rollout of an adjustment to our responsive type scale; the font, line height and screen size combinations we use on the design system and ship for our users. This is a subtle but significant change to our typography to make them more readable on devices with smaller screens. This will have wide reaching implications to the visual rhythm of the entire GOV.UK ecosystem so I've been doing a lot of thinking about communication and rollout of this change.
-
-On top of this, I've been thinking about our typography Sass API, our typography guidance and our typography CSS classes, considering ways these could be iterated and improved whilst I'm in that neighborhood.
-
-A lot of the work involved, especially the content and design work, wasn't done by me so I need to credit my excellent teammates but I've been doing lots of coordinating. It's been interesting to cosplay a product/delivery person as part of this work.
-
-[The initial version of this was launched end of Feb 2024](https://design-system.service.gov.uk/get-started/new-type-scale/) and we'll be continuing to iterate it and work on the peripheral typography bits. If you want to read more, [I wrote a blog to announce the type scale adjustments at the end of 2022](https://designnotes.blog.gov.uk/2022/12/12/making-the-gov-uk-frontend-typography-scale-more-accessible/).
+I'm continuing to iterate this website. I don't know yet if I'll use it as anything other than a tiny internet presence but I've got _ideas_. We'll see.
 
 ## Finished
+
+### Adjusting our responsive type scale
+
+I led on the implementation, planning and rollout of an adjustment to our responsive type scale; the font, line height and screen size combinations we use on the design system and ship for our users. This is a subtle but significant change to our typography to make them more readable on devices with smaller screens. This has wide reaching implications to the visual rhythm of the entire GOV.UK ecosystem so we thought a lot about communication and rollout of this change.
+
+A lot of the work involved, especially the content and design work, wasn't done by me so I need to credit my excellent teammates but I did lots of coordinating. It's been interesting to cosplay a product/delivery person as part of this work.
+
+[The initial version of this was launched end of Feb 2024](https://design-system.service.gov.uk/get-started/new-type-scale/) and we'll be continuing to iterate it and work on the peripheral typography bits. If you want to read more, [I wrote a blog to announce the type scale adjustments at the end of 2022](https://designnotes.blog.gov.uk/2022/12/12/making-the-gov-uk-frontend-typography-scale-more-accessible/).
 
 ### Exit this page pattern and component
 
