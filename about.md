@@ -10,7 +10,7 @@ I grew up in a little village in the West Sussex. In 2009 I swapped the Sussex c
 
 ## What I do for work
 
-At the moment I'm a senior frontend developer working for [Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service) in the [GOV.UK Design System team](https://design-system.service.gov.uk/). I've worked in a few places but the ones I thought were most interesting were...
+At the moment I'm a senior frontend developer working for the [Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service) in the [GOV.UK Design System team](https://design-system.service.gov.uk/). I've worked in a few places but the ones I thought were most interesting were...
 
 ### Shelter
 
@@ -41,4 +41,5 @@ Some things that I'm interested in my professional and personal life.
 - Video games
 - Video game music
 - Cooking
+- Coffee
 - Brazilian Jiu Jitsu
