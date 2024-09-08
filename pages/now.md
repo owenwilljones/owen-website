@@ -2,6 +2,7 @@
 layout: layout.njk
 title: What I'm doing now
 description: What Owen Jones is doing right this second, probably
+tags: nav
 ---
 
 This is a [now page](https://nownownow.com/about), a concept I nicked from [Steve 'Boring Magic' Messer](https://visitmy.website/now/).

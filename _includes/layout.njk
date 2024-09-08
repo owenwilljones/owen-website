@@ -2,25 +2,6 @@
 title: Very cool website
 ---
 
-{%- set navigation = [
-  {
-    name: "About me",
-    url: "/about"
-  },
-  {
-    name: "Stuff I've done",
-    url: "/stuff-ive-done"
-  },
-  {
-    name: "What I'm doing now",
-    url: "/now"
-  },
-  {
-    name: "Contact",
-    url: "/contact"
-  }
-] -%}
-
 <!doctype html>
 <html lang="en">
   <head>
@@ -37,8 +18,8 @@ title: Very cool website
         <a href="/" class="logo" {{- 'aria-current=true' if page.url == '/' }}>Owen Jones</a>
         <nav>
           <ul>
-            {%- for item in navigation -%}
-            <li><a href="{{ item.url }}" {{- 'aria-current=true' if page.url == item.url + '/' }}>{{ item.name }}</a></li>
+            {%- for item in collections.nav -%}
+            <li><a href="{{ item.url }}" {{- 'aria-current=true' if page.url == item.url + '/' }}>{{ item.data.title }}</a></li>
             {%- endfor -%}
           </ul>
         </nav>
