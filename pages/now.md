@@ -14,8 +14,6 @@ This is a [now page](https://nownownow.com/about), a concept I nicked from [Stev
 - learning Portuguese
 - working towards my second white belt stripe and eventually blue belt in Brazilian Jiu Jitsu
 - watching [Monk](https://en.wikipedia.org/wiki/Monk_(TV_series))
-- figuring out putting weeknotes on this website
-- chasing the perfect cup of coffee (with help from fellow North London resident [James Hoffmann](https://www.jameshoffmann.co.uk/)'s youtube channel)
 
 ## Later on I'd like to...
 
