@@ -11,9 +11,9 @@ Sometimes I write stuff and put it online.
 
 Weekly(?) reflections on my work and beyond over the past week.
 
-{% for post in collections.weeknotes -%}
+{% for post in collections.weeknotes reversed -%}
 ### [{{ post.data.title }}]({{ post.url }})
 {{ post.data.description }}
 
 Published: {{ post.page.date | date: "%e %B %Y" }}
-{%- endfor -%}
+{% endfor -%}

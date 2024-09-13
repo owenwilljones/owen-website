@@ -36,7 +36,7 @@ I never really touched this work so I'll keep my thoughts on this brief and free
 
 We went to Liverpool, ran another event and basked in the glory. I used to work in event management as an office body and I could see how stressful it was operating stuff on site from the comfort of my desk. Being there as a volunteer you feel the intensity first hand. It's very tiring but the comradery that emerges from it is pleasant.
 
-I think we put on a good show, in particular I loved the powerful and challenging talk on sustainability in digital teams from the brilliant [Ishmael Burdeeau](https://www.linkedin.com/in/ishmael-burdeau/). 
+I think we put on a good show, in particular I loved the powerful and challenging talk on sustainability in digital teams from the brilliant [Ishmael Burdeau](https://www.linkedin.com/in/ishmael-burdeau/). 
 
 The social episodes during and after the event were very nice. It was great to catch up with my teammates from other parts of the UK who I don't get to see that often and to meet members of the community, notably [the chronically cheerful Josh from the BBC](https://www.joshtumath.uk/). I think after a very relaxed Friday and a full weekend I'm just about ready for the week ahead.
 
@@ -56,7 +56,7 @@ Design System Day and git training took up a lot of my week but my mind had stan
 
 ### JPEGMAFIA's latest album
 
-Peggy released [I lay down my life for you](https://www.youtube.com/watch?v=zA2v9AtvUHI) and it's really got it's hooks in. I feel off of Peggy's stuff after not being super into All My Heros but this record brought me right back in. I feel a bit conflicted about Peggy himself, especially after [he decided to 180 on Kanye](https://www.hotnewhiphop.com/754682-jpegmafia-kanye-west-vultures-photo-hip-hop-news) but I can't deny how excellent the music is. In particular, I've been listening to [it's dark and hell is hot](https://www.youtube.com/watch?v=lve59C5LMLc) over and over and over again. Brazilian Funk getting more air time is a good thing for everyone.
+Peggy released [I lay down my life for you](https://www.youtube.com/watch?v=zA2v9AtvUHI) and it's really got it's hooks in. I fell off of Peggy's stuff after not being super into All My Heros but this record brought me right back in. I feel a bit conflicted about Peggy himself, especially after [he decided to 180 on Kanye](https://www.hotnewhiphop.com/754682-jpegmafia-kanye-west-vultures-photo-hip-hop-news) but I can't deny how excellent the music is. In particular, I've been listening to [it's dark and hell is hot](https://www.youtube.com/watch?v=lve59C5LMLc) over and over and over again. Brazilian Funk getting more air time is a good thing for everyone.
 
 ### Cheesy pasta
 
