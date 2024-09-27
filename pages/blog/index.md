@@ -3,6 +3,7 @@ layout: layout.njk
 title: Blog
 description: Stuff Owen Jones written and put up on the website
 tags: nav
+date: git Created
 ---
 
 Sometimes I write stuff and put it online.

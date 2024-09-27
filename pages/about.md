@@ -3,6 +3,7 @@ layout: layout.njk
 title: About me
 description: The professional life of Owen Jones
 tags: nav
+date: git Created
 ---
 
 ## How I got here

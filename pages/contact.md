@@ -3,6 +3,7 @@ layout: layout.njk
 title: How to get in touch
 description: How to contact Owen Jones
 tags: nav
+date: git Created
 ---
 
 I'm not very online these days but you can still contact me on [LinkedIn](https://www.linkedin.com/in/owenwilliamjones/) if you want a chat.
