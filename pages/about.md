@@ -34,7 +34,6 @@ Some things that I'm interested in my professional and personal life.
 - Tech for good
 - Accessibility
 - Sustainability
-- Building websites the old fashioned way (read: with minimal client-side processing)
 - Design systems
 - Iterative work practices
 - Wellbeing in the workplace ([My employer has blogged about this](https://gds.blog.gov.uk/2016/05/25/its-ok-to-say-whats-ok/))
