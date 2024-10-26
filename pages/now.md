@@ -6,7 +6,7 @@ tags: nav
 date: git Created
 ---
 
-This is a [now page](https://nownownow.com/about), a concept I nicked from [Steve 'Boring Magic' Messer](https://visitmy.website/now/).
+This is a [now page](https://nownownow.com/about), a concept I nicked from [Steve](https://visitmy.website/now/).
 
 ## At the moment I'm...
 
@@ -15,9 +15,6 @@ This is a [now page](https://nownownow.com/about), a concept I nicked from [Stev
 - making my way through the [Deque University WAS course](https://dequeuniversity.com/online-courses/web-accessibility)
 - learning Portuguese
 - working towards my second white belt stripe and eventually blue belt in Brazilian Jiu Jitsu
-- watching [Monk](https://en.wikipedia.org/wiki/Monk_(TV_series))
-- playing [1000xRESIST](https://store.steampowered.com/app/1675830/1000xRESIST/)
-- reading [Dandadan](https://en.wikipedia.org/wiki/Dandadan)
 
 ## Later on I'd like to...
 
