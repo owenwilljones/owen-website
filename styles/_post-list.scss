@@ -1,0 +1,21 @@
+@use "utility";
+
+.post-list {
+  list-style: none;
+  padding: 0;
+}
+
+.post-list__post {
+  margin-bottom: 30px;
+}
+
+.post-list__post-title {
+  margin-bottom: 10px;
+}
+
+.post-list__post-date {
+  display: block;
+  margin-top: 5px;
+  font-size: utility.remify(18px);
+  font-weight: 300;
+}
