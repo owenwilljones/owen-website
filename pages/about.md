@@ -1,5 +1,5 @@
 ---
-layout: layout.njk
+layout: layout.liquid
 title: About me
 description: The professional life of Owen Jones
 tags: nav

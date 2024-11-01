@@ -1,5 +1,5 @@
 ---
-layout: layout.njk
+layout: layout.liquid
 title: Weeknote Zero
 description: The blog post where I say I'll start writing weeknotes
 date: git Created

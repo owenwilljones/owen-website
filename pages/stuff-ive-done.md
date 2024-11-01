@@ -1,5 +1,5 @@
 ---
-layout: layout.njk
+layout: layout.liquid
 title: Stuff I've done
 description: Things that Owen Jones' has done and worked on
 tags: nav

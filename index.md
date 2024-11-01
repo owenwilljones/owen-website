@@ -1,5 +1,5 @@
 ---
-layout: layout.njk
+layout: layout.liquid
 title: Owen Jones is online
 description: This is Owen Jones' website
 ---

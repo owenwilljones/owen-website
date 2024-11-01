@@ -1,5 +1,5 @@
 ---
-layout: layout.njk
+layout: layout.liquid
 title: How to get in touch
 description: How to contact Owen Jones
 tags: nav

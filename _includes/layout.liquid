@@ -19,7 +19,7 @@ title: Very cool website
         <nav>
           <ul>
             {%- for item in collections.nav -%}
-            <li><a href="{{ item.url }}" {{- 'aria-current=true' if page.url == item.url + '/' }}>{{ item.data.title }}</a></li>
+            <li><a href="{{ item.url }}" {{- 'aria-current=true' if page.url == item.url }}>{{ item.data.title }}</a></li>
             {%- endfor -%}
           </ul>
         </nav>
@@ -28,7 +28,7 @@ title: Very cool website
     <div class="width-container">
       <div class="width-container__content">
         <h1>{{ title }}</h1>
-        {{ content | safe }}
+        {{ content }}
       </div>
     </div>
   </body>

@@ -1,5 +1,5 @@
 ---
-layout: layout.njk
+layout: layout.liquid
 title: Blog
 description: Stuff Owen Jones written and put up on the website
 tags: nav
