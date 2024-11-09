@@ -15,7 +15,7 @@ This is a [now page](https://nownownow.com/about), a concept I nicked from [Stev
 - making my way through the [Deque University WAS course](https://dequeuniversity.com/online-courses/web-accessibility)
 - learning Portuguese
 - working towards my second white belt stripe and eventually blue belt in Brazilian Jiu Jitsu
-- watching [Delicious in Dungeon](https://en.wikipedia.org/wiki/Delicious_in_Dungeon)
+- experimenting with coffee brewing
 
 ## Later on I'd like to...
 
