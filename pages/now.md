@@ -16,6 +16,7 @@ This is a [now page](https://nownownow.com/about), a concept I nicked from [Stev
 - learning Portuguese
 - working towards my second white belt stripe and eventually blue belt in Brazilian Jiu Jitsu
 - experimenting with coffee brewing
+- playing [Arranger](https://arranger.quest/)
 
 ## Later on I'd like to...
 
@@ -24,5 +25,4 @@ This is a [now page](https://nownownow.com/about), a concept I nicked from [Stev
 - spend more time making stuff in [FL Studio](https://www.image-line.com/fl-studio/)
 - play all the games; some notable ones I'm thinking about:
     - [Indika](https://indikathegame.com/)
-    - [Arranger](https://arranger.quest/)
     - [UFO 50](https://50games.fun/)
