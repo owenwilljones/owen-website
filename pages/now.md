@@ -2,6 +2,8 @@
 layout: layout.liquid
 title: What I'm doing now
 description: What Owen Jones is doing right this second, probably
+tags: footer
+order: 1
 ---
 
 This is a [now page](https://nownownow.com/about), a concept I nicked from [Steve](https://visitmy.website/now/).

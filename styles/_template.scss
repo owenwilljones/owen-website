@@ -14,3 +14,39 @@
     max-width: utility.$content-width;
   }
 }
+
+header {
+  padding: 20px 0;
+  background-color: utility.$nav-colour;
+  margin: 0 0 20px;
+  font-weight: 700;
+
+  a {
+    color: utility.$text-colour;
+  }
+}
+
+main {
+  margin-bottom: 60px;
+}
+
+footer {
+  border-top: 1px solid utility.$text-colour;
+  padding-top: 20px;
+
+  ul {
+    list-style: none;
+    padding: 0;
+
+    @include utility.media-query(m) {
+      li {
+        display: inline-block;
+        margin-right: 20px;
+
+        &:last-of-type {
+          margin-right: 0;
+        }
+      }
+    }
+  }
+}

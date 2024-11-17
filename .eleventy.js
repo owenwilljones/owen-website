@@ -29,4 +29,10 @@ module.exports = function (eleventyConfig) {
       return a.data.order - b.data.order
     });
   });
+
+  eleventyConfig.addCollection("footer", function(collectionsApi) {
+    return collectionsApi.getFilteredByTags("footer").sort(function(a, b) {
+      return a.data.order - b.data.order
+    });
+  });
 };

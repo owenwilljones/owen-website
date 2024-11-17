@@ -25,11 +25,22 @@ title: Very cool website
         </nav>
       </div>
     </header>
-    <div class="width-container">
-      <div class="width-container__content">
-        <h1>{{ title }}</h1>
-        {{ content }}
+    <main>
+      <div class="width-container">
+        <div class="width-container__content">
+          <h1>{{ title }}</h1>
+          {{ content }}
+        </div>
       </div>
+    </main>
+    <div class="width-container">
+      <footer>
+        <ul>
+          {%- for item in collections.footer -%}
+          <li><a href="{{ item.url }}" {{- 'aria-current=true' if page.url == item.url }}>{{ item.data.title }}</a></li>
+          {%- endfor -%}
+        </ul>
+      </footer>
     </div>
   </body>
 </html>

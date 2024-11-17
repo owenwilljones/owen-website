@@ -1,16 +1,5 @@
 @use "utility";
 
-header {
-  padding: 20px 0;
-  background-color: utility.$nav-colour;
-  margin: 0 0 20px;
-  font-weight: 700;
-
-  a {
-    color: utility.$text-colour;
-  }
-}
-
 .logo {
   font-size: utility.remify(32px);
 }
