@@ -1,5 +1,6 @@
 const path = require("path");
 const sass = require("sass");
+const { feedPlugin } = require("@11ty/eleventy-plugin-rss");
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addTemplateFormats("scss");
@@ -23,6 +24,24 @@ module.exports = function (eleventyConfig) {
       };
     }
   });
+
+  eleventyConfig.addPlugin(feedPlugin, {
+		type: "rss",
+		outputPath: "/feed.xml",
+		collection: {
+			name: "weeknotes",
+			limit: 0,
+		},
+		metadata: {
+			language: "en",
+			title: "Owen Jones is online",
+			subtitle: "Owen Jones' website and blog",
+			base: "https://owenis.online/",
+			author: {
+				name: "Owen Jones"
+			}
+		}
+	});
 
   eleventyConfig.addCollection("nav", function(collectionsApi) {
     return collectionsApi.getFilteredByTags("nav").sort(function(a, b) {
