@@ -23,4 +23,10 @@ module.exports = function (eleventyConfig) {
       };
     }
   });
+
+  eleventyConfig.addCollection("nav", function(collectionsApi) {
+    return collectionsApi.getFilteredByTags("nav").sort(function(a, b) {
+      return a.data.order - b.data.order
+    });
+  });
 };

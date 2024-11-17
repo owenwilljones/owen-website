@@ -3,7 +3,7 @@ layout: layout.liquid
 title: About me
 description: The professional life of Owen Jones
 tags: nav
-date: git Created
+order: 1
 ---
 
 ## How I got here

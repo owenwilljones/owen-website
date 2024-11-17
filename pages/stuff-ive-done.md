@@ -1,9 +1,9 @@
 ---
 layout: layout.liquid
 title: Stuff I've done
-description: Things that Owen Jones' has done and worked on
+description: Things that Owen Jones has done and worked on
 tags: nav
-date: git Created
+order: 2
 ---
 
 Here are some things I've worked on and am currently working on that I think are noteworthy.

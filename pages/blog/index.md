@@ -1,9 +1,9 @@
 ---
 layout: layout.liquid
 title: Blog
-description: Stuff Owen Jones written and put up on the website
+description: Stuff Owen Jones wrote
 tags: nav
-date: git Created
+order: 3
 ---
 Sometimes I write stuff and put it online.
 
