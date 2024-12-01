@@ -15,7 +15,6 @@ These are blogs and personal websites from friends and colleagues that I think a
 - [Caspar Below](https://belowtech.uk/)
 - [Oliver Byford](https://obyford.com/)
 - [Patrick Cartlidge](https://patworld.world/)
-- [Mildred Cheng](https://www.mildredcheng.com/)
 - [David Cox](https://dav-idc.com/)
 - [Caylee Farndon-Taylor](https://cayleeft.com/)
 - [Nooshu (Matt Hobbs)](https://nooshu.com/)
