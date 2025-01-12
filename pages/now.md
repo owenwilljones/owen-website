@@ -16,7 +16,8 @@ This is a [now page](https://nownownow.com/about), a concept I nicked from [Stev
 - learning Portuguese
 - working towards my second white belt stripe and eventually blue belt in Brazilian Jiu Jitsu
 - experimenting with coffee brewing
-- playing [Arranger](https://arranger.quest/)
+- Playing [Okami (HD)](https://store.steampowered.com/app/587620/Okami_HD/)
+- Listening to the early R.E.M. albums (Murmur through to Life's Rich Pageant)
 
 ## Later on I'd like to...
 
@@ -26,3 +27,6 @@ This is a [now page](https://nownownow.com/about), a concept I nicked from [Stev
 - play all the games; some notable ones I'm thinking about:
     - [Indika](https://indikathegame.com/)
     - [UFO 50](https://50games.fun/)
+    - [Arctic Eggs](https://store.steampowered.com/app/2763670/Arctic_Eggs/)
+    - [Mouthwashing](https://store.steampowered.com/app/2475490/Mouthwashing/)
+    - [Nine Sols](https://shop.redcandlegames.com/projects/ninesols)
