@@ -14,6 +14,7 @@ These are blogs and personal websites from friends and colleagues that I think a
 - [beeps](https://beeps.website/)
 - [Caspar Below](https://belowtech.uk/)
 - [Oliver Byford](https://obyford.com/)
+- [Natalie Carey](https://nataliecarey.uk/)
 - [Patrick Cartlidge](https://patworld.world/)
 - [David Cox](https://dav-idc.com/)
 - [Caylee Farndon-Taylor](https://cayleeft.com/)
