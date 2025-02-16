@@ -17,7 +17,6 @@ This is a [now page](https://nownownow.com/about), a concept I nicked from [Stev
 - working towards my second white belt stripe and eventually blue belt in Brazilian Jiu Jitsu
 - playing [Okami (HD)](https://store.steampowered.com/app/587620/Okami_HD/)
 - playing [the new Zelda where you actually play as Zelda](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Echoes_of_Wisdom)
-- listening to the early R.E.M. albums (Murmur through to Life's Rich Pageant)
 
 ## Later on I'd like to...
 
