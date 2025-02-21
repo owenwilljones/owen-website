@@ -9,7 +9,6 @@ order: 2
 These are blogs and personal websites from friends and colleagues that I think are good. My mates are very smart and have plenty to say. You should give them a read.
 
 - [Chris Ballantine-Thomas](https://chrisballantinethomas.co.uk/)
-- [Kuba Bartwicki](https://www.kubabartwicki.com/)
 - [Vanita Barrett-Smith](https://vanitabarrett.co.uk/)
 - [beeps](https://beeps.website/)
 - [Caspar Below](https://belowtech.uk/)
