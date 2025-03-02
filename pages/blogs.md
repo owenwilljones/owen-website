@@ -12,6 +12,7 @@ These are blogs and personal websites from friends and colleagues that I think a
 - [Vanita Barrett-Smith](https://vanitabarrett.co.uk/)
 - [beeps](https://beeps.website/)
 - [Caspar Below](https://belowtech.uk/)
+- [David Biddle](https://davidbiddle.co.uk/)
 - [Oliver Byford](https://obyford.com/)
 - [Natalie Carey](https://nataliecarey.uk/)
 - [Patrick Cartlidge](https://patworld.world/)
@@ -35,4 +36,4 @@ These are blogs and personal websites from friends and colleagues that I think a
 - [Robyn Schlotfeldt](https://robynschlotfeldt.com/)
 - [Custard Doughnuts (Andy Sellick)](https://www.custarddoughnuts.co.uk/)
 - [Nancy Smallwood](https://www.nancy-smallwood.co.uk/)
-- [Vicki Teinaki](https://www.vickyteinaki.com/)
+- [Benjy Stanton](https://www.benjystanton.co.uk/)
