@@ -11,7 +11,7 @@ This is a [now page](https://nownownow.com/about), a concept I nicked from [Stev
 ## At the moment I'm...
 
 - being a frontend developer for the GOV.UK Design System team at GDS; specifically right now I'm:
-    - helping figure out howe to rollout a rebrand of the GOV.UK ecosystem
+    - helping figure out how to rollout a rebrand of the GOV.UK ecosystem
 - making this website better and more interesting
 - learning Portuguese
 - working towards my second white belt stripe and eventually blue belt in Brazilian Jiu Jitsu
