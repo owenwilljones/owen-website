@@ -25,7 +25,9 @@ This is a [now page](https://nownownow.com/about), a concept I nicked from [Stev
 - learn [Phaser](https://phaser.io/) and get one or more of my small game ideas on the screen
 - spend more time making stuff in [FL Studio](https://www.image-line.com/fl-studio/)
 - play all the games; some notable ones I'd like to check out:
-    - [Indika](https://indikathegame.com/)
+    - [Blue Prince](https://www.blueprincegame.com/)
+    - [Clair Obscur: Expedition 33](https://en.wikipedia.org/wiki/Clair_Obscur:_Expedition_33)
+    - [Void Stranger](https://se-made.com/voidstranger.html)
     - [UFO 50](https://50games.fun/)
     - [Arctic Eggs](https://store.steampowered.com/app/2763670/Arctic_Eggs/)
     - [Mouthwashing](https://store.steampowered.com/app/2475490/Mouthwashing/)
