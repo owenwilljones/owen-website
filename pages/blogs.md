@@ -17,6 +17,7 @@ These are blogs and personal websites from friends and colleagues that I think a
 - [Natalie Carey](https://nataliecarey.uk/)
 - [Patrick Cartlidge](https://patworld.world/)
 - [David Cox](https://dav-idc.com/)
+- [Charlotte Downs](https://cdownsdesign.com/)
 - [Caylee Farndon-Taylor](https://cayleeft.com/)
 - [Nooshu (Matt Hobbs)](https://nooshu.com/)
 - [Ed Horsford](https://www.edwardhorsford.com/)
