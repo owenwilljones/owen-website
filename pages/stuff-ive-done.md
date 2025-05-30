@@ -14,25 +14,7 @@ Here are some things I've worked on and am currently working on that I think are
 
 I'm continuing to iterate this website. I don't know yet if I'll use it as anything other than a tiny internet presence but I've got _ideas_. We'll see.
 
-### Ensuring the GOV.UK Design System website is WCAG 2.2 compliant
-
-I've been leading-from-the-back on addressing a [DAC (Digital Accessibility Centre)](https://digitalaccessibilitycentre.org/) audit of our website against [WCAG 2.2](https://www.w3.org/TR/WCAG22/). I'm very grateful to be working on a service that puts so much thought into accessibility regardless of compliance needs, so alongside addressing literal issues that have come out of this audit, we've been more broadly thinking about the accessibility, usability and information architecture of the website. For example:
-
-- Making technical changes to [the Accessible Autocomplete](https://github.com/alphagov/accessible-autocomplete), which we use in our site search, to make sure it retains it's namesake
-- Auditing our website content as a whole to fix a few tiny issues raised by DAC but also think about our content strategy as a whole whilst we're in that neighbourhood
-- Redesigning out site search, how the results are displayed etc, initially in response to specific issues but also to think about if the site search is still meeting our needs or if there's an opportunity to iterate
-
-This work has involved lots of device and assistive tech testing which is something I often enjoy and feel comfortable doing. It's pleasant to do 'comfy' work every now and then.
-
 ## Finished
-
-### Helping teams initialise GOV.UK Frontend javascript
-
-I helped build [the `createAll` method](https://frontend.design-system.service.gov.uk/configure-components/#configure-instances-of-specific-components-using-the-createall-function), a part of GOV.UK Frontend's javascript API which allows javascript shipped with GOV.UK Frontend to be initialised more easily and consistently. Before, developers were manually initialising component javascript as they needed, creating more work for service teams. This enables our users to interface with our javascript API much more easily than before.
-
-At the time it had been a whilst since I was deep in the gears of a code project and I'd been getting that nagging imposter syndrome feeling that I'm confident all developers get that I was atrophying as a technical person. Working on this stuff was refreshing in that it renewed both my awareness and interest in the proper _programming_ bit of my job title and reminded me why I've been doing this job for almost a full decade now.
-
-This is part of [a bigger piece of work to make our javascript API more cohesive and beefy](https://github.com/alphagov/govuk-frontend/issues/5205) which is still ongoing. That was my little contribution.
 
 ### Adjusting our responsive type scale
 
