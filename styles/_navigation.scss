@@ -2,6 +2,13 @@
 
 .logo {
   font-size: utility.remify(32px);
+  color: utility.$text-colour;
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+    text-decoration-thickness: max(1px, 0.2rem);
+  }
 }
 
 nav {

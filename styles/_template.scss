@@ -20,10 +20,7 @@ header {
   background-color: utility.$nav-colour;
   margin: 0 0 20px;
   font-weight: 700;
-
-  a {
-    color: utility.$text-colour;
-  }
+  border-bottom: 1px solid utility.$text-colour;
 }
 
 main {
