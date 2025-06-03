@@ -14,7 +14,28 @@ Here are some things I've worked on and am currently working on that I think are
 
 I'm continuing to iterate this website. I don't know yet if I'll use it as anything other than a tiny internet presence but I've got _ideas_. We'll see.
 
+### Rollout the GOV.UK brand refresh
+
+I helped with the rollout and implementation of the updates to the GOV.UK brand across the GOV.UK estate via the GOV.UK Design System; an extremely challenging task of facilitating a mass update across hundreds of different government service frontends. Besides feeding into delivery strategy with the rest of the team, I mostly worked on lower profile but none-the-less useful techy stuff, including:
+
+- an internal tool to facilitate easier visual checking of components with the rebrand on and off
+- a feature that enabled our nunjucks users to easily turn the rebrand on and off from within their nunjucks setup
+- an integration for prototype kit users to turn the rabrand on from the config of their prototypes
+- a v4 backport of the brand updates
+
+We released the initial brand updates behind a feature flag in [GOV.UK Frontend 5.10.0](https://github.com/alphagov/govuk-frontend/releases/tag/v5.10.0) and the backport in [4.10.0](https://github.com/alphagov/govuk-frontend/releases/tag/v4.10.0). We're continuing to work on this through to the 25th June 'switch on' date.
+
 ## Finished
+
+### Ensuring the GOV.UK Design System website is WCAG 2.2 compliant
+
+I led-from-the-back on addressing a [DAC (Digital Accessibility Centre)](https://digitalaccessibilitycentre.org/) audit of our website against [WCAG 2.2](https://www.w3.org/TR/WCAG22/). I'm very grateful to be working on a service that puts so much thought into accessibility, regardless of compliance needs, so alongside addressing literal issues that have come out of this audit, we've been more broadly thinking about the accessibility, usability and information architecture of the website. For example:
+
+- Making technical changes to [the Accessible Autocomplete](https://github.com/alphagov/accessible-autocomplete), which we use in our site search, to make sure it retains it's namesake
+- Auditing our website content as a whole to fix a few tiny issues raised by DAC but also think about our content strategy as a whole whilst we're in that neighbourhood
+- Redesigning out site search, how the results are displayed etc, initially in response to specific issues but also to think about if the site search is still meeting our needs or if there's an opportunity to iterate
+
+This work involved lots of device and assistive tech testing which is something I often enjoy and feel comfortable doing. It's pleasant to do 'comfy' work every now and then.
 
 ### Adjusting our responsive type scale
 
