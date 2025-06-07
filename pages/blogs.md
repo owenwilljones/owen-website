@@ -1,6 +1,6 @@
 ---
 layout: layout.liquid
-title: Blogroll
+title: Links
 description: Blogs of colleagues and friends that Owen thinks are good
 tags: footer
 order: 2
