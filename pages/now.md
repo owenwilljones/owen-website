@@ -15,8 +15,7 @@ This is a [now page](https://nownownow.com/about), a concept I nicked from [Stev
 - making this website better and more interesting
 - learning Portuguese
 - working towards my second white belt stripe and eventually blue belt in Brazilian Jiu Jitsu
-- playing [the new Zelda where you actually play as Zelda](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Echoes_of_Wisdom)
-- playing [Monster Hunter Rise](https://www.monsterhunter.com/rise/us/)
+- playing [Monster Hunter Rise: Sunbreak](https://www.monsterhunter.com/rise-sunbreak/en-us/)
 - watching [X-Files](https://en.wikipedia.org/wiki/The_X-Files)
 
 ## Later on I'd like to...
