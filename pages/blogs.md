@@ -19,6 +19,7 @@ These are blogs and personal websites from friends and colleagues that I think a
 - [David Cox](https://dav-idc.com/)
 - [Charlotte Downs](https://cdownsdesign.com/)
 - [Caylee Farndon-Taylor](https://cayleeft.com/)
+- [Marina Filiba](https://www.marinafiliba.com/about)
 - [Nooshu (Matt Hobbs)](https://nooshu.com/)
 - [Ed Horsford](https://www.edwardhorsford.com/)
 - [Dilwoar Hussain](https://www.dilwoarhussain.com/)
