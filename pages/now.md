@@ -11,24 +11,26 @@ This is a [now page](https://nownownow.com/about), a concept I nicked from [Stev
 ## At the moment I'm...
 
 - being a frontend developer for the GOV.UK Design System team at GDS; specifically right now I'm:
-    - helping figure out how to rollout a rebrand of the GOV.UK ecosystem
-- making this website better and more interesting
-- learning Portuguese
-- working towards my second white belt stripe and eventually blue belt in Brazilian Jiu Jitsu
-- playing [Monster Hunter Rise: Sunbreak](https://www.monsterhunter.com/rise-sunbreak/en-us/)
-- watching [X-Files](https://en.wikipedia.org/wiki/The_X-Files)
+    - keeping an eye on the rollout of the recent brand updates to the GOV.UK ecosystem
+    - thinking about how we can measure our design system
+    - planning bits of training to upskill my teammates on techy subjects
+- making this website better and more interesting, time allowing
+- learning as much basic Japanese as I can ahead of a big holiday next year
+- playing some viddy games:
+    - [Blue Prince](https://www.blueprincegame.com/)
+    - [Arctic Eggs](https://store.steampowered.com/app/2763670/Arctic_Eggs/)
+    - [Mouthwashing](https://store.steampowered.com/app/2475490/Mouthwashing/)
 
 ## Later on I'd like to...
 
 - tighten up my typescript knowledge
 - learn [Phaser](https://phaser.io/) and get one or more of my small game ideas on the screen
+- resume learning Brazilian Portuguese
+- pick up where I left off with Brazilian Jiu Jitsu
 - spend more time making stuff in [FL Studio](https://www.image-line.com/fl-studio/)
 - play all the games; some notable ones I'd like to check out:
     - [DELTARUNE chapters 3 and 4](https://deltarune.com/)
-    - [Blue Prince](https://www.blueprincegame.com/)
     - [Clair Obscur: Expedition 33](https://en.wikipedia.org/wiki/Clair_Obscur:_Expedition_33)
     - [Void Stranger](https://se-made.com/voidstranger.html)
     - [UFO 50](https://50games.fun/)
-    - [Arctic Eggs](https://store.steampowered.com/app/2763670/Arctic_Eggs/)
-    - [Mouthwashing](https://store.steampowered.com/app/2475490/Mouthwashing/)
     - [Nine Sols](https://shop.redcandlegames.com/projects/ninesols)
