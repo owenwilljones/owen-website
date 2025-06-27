@@ -12,7 +12,17 @@ Here are some things I've worked on and am currently working on that I think are
 
 ### This website
 
-I'm continuing to iterate this website. I don't know yet if I'll use it as anything other than a tiny internet presence but I've got _ideas_. We'll see.
+I'm continuing to iterate this website. I don't know yet if I'll use it as anything other than a tiny internet presence but I've got _ideas_. A few things on my mind:
+
+- Linting
+- Paginated blog post lists
+- Content other than a digital CV and weeknotes
+- An ethical analytics setup
+- A proper assessment of the site's sustainability
+
+We'll see.
+
+## Finished
 
 ### Rollout the GOV.UK brand refresh
 
@@ -23,9 +33,7 @@ I helped with the rollout and implementation of the updates to the GOV.UK brand 
 - an integration for prototype kit users to turn the rabrand on from the config of their prototypes
 - a v4 backport of the brand updates
 
-We released the initial brand updates behind a feature flag in [GOV.UK Frontend 5.10.0](https://github.com/alphagov/govuk-frontend/releases/tag/v5.10.0) and the backport in [4.10.0](https://github.com/alphagov/govuk-frontend/releases/tag/v4.10.0). We're continuing to work on this through to the 25th June 'switch on' date.
-
-## Finished
+We released the initial brand updates behind a feature flag in [GOV.UK Frontend 5.10.0](https://github.com/alphagov/govuk-frontend/releases/tag/v5.10.0) and the backport in [4.10.0](https://github.com/alphagov/govuk-frontend/releases/tag/v4.10.0). Currently we're keeping an eye on rollout following the go-live date on 25th June.
 
 ### Ensuring the GOV.UK Design System website is WCAG 2.2 compliant
 
