@@ -16,10 +16,7 @@ This is a [now page](https://nownownow.com/about), a concept I nicked from [Stev
     - planning bits of training to upskill my teammates on techy subjects
 - making this website better and more interesting, time allowing
 - learning as much basic Japanese as I can ahead of a big holiday next year
-- playing some viddy games:
-    - [Blue Prince](https://www.blueprincegame.com/)
-    - [Arctic Eggs](https://store.steampowered.com/app/2763670/Arctic_Eggs/)
-    - [Mouthwashing](https://store.steampowered.com/app/2475490/Mouthwashing/)
+- playing [Arctic Eggs](https://store.steampowered.com/app/2763670/Arctic_Eggs/)
 
 ## Later on I'd like to...
 
