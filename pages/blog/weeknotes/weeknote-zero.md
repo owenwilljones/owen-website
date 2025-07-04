@@ -2,7 +2,7 @@
 layout: layout.liquid
 title: Weeknote Zero
 description: The blog post where I say I'll start writing weeknotes
-date: git Created
+date: 2024-09-08
 tags: weeknotes
 ---
 
