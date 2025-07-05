@@ -18,7 +18,6 @@ I'm continuing to iterate this website. I don't know yet if I'll use it as anyth
 - Paginated blog post lists
 - Content other than a digital CV and weeknotes
 - An ethical analytics setup
-- A proper assessment of the site's sustainability
 
 We'll see.
 
