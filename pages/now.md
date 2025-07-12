@@ -11,12 +11,11 @@ This is a [now page](https://nownownow.com/about), a concept I nicked from [Stev
 ## At the moment I'm...
 
 - being a frontend developer for the GOV.UK Design System team at GDS; specifically right now I'm:
-    - keeping an eye on the rollout of the recent brand updates to the GOV.UK ecosystem
     - thinking about how we can measure our design system
     - planning bits of training to upskill my teammates on techy subjects
+    - trying to make our tooling better
 - making this website better and more interesting, time allowing
 - learning as much basic Japanese as I can ahead of a big holiday next year
-- playing [Arctic Eggs](https://store.steampowered.com/app/2763670/Arctic_Eggs/)
 
 ## Later on I'd like to...
 
