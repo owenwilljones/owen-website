@@ -19,7 +19,7 @@ This is a [now page](https://nownownow.com/about), a concept I nicked from [Stev
 
 ## Later on I'd like to...
 
-- tighten up my typescript knowledge
+- spend more time understanding design tokens
 - learn [Phaser](https://phaser.io/) and get one or more of my small game ideas on the screen
 - resume learning Brazilian Portuguese
 - pick up where I left off with Brazilian Jiu Jitsu
