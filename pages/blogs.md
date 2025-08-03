@@ -23,7 +23,6 @@ These are blogs and personal websites from friends and colleagues that I think a
 - [Nooshu (Matt Hobbs)](https://nooshu.com/)
 - [Ed Horsford](https://www.edwardhorsford.com/)
 - [Dilwoar Hussain](https://www.dilwoarhussain.com/)
-- [Imran Hussain](https://imranhussain.uk/)
 - [Effortmark (Caroline Jarrett)](https://www.effortmark.co.uk/)
 - [Daniel Karaj](https://karaj.uk/)
 - [Joe Lanman](https://joelanman.com/)
