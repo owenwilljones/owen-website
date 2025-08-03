@@ -11,11 +11,12 @@ This is a [now page](https://nownownow.com/about), a concept I nicked from [Stev
 ## At the moment I'm...
 
 - being a frontend developer for the GOV.UK Design System team at GDS; specifically right now I'm:
-    - thinking about how we can measure our design system
+    - building a tool to assess services using the design system
     - planning bits of training to upskill my teammates on techy subjects
 - making this website better and more interesting, time allowing
 - learning as much basic Japanese as I can ahead of a big holiday next year
 - playing [Blue Prince](https://www.blueprincegame.com/)
+- reading [Delicious in Dungeon](https://en.wikipedia.org/wiki/Delicious_in_Dungeon)
 
 ## Later on I'd like to...
 
