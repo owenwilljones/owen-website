@@ -17,13 +17,14 @@ This is a [now page](https://nownownow.com/about), a concept I nicked from [Stev
 - learning as much basic Japanese as I can ahead of a big holiday next year
 - playing [Blue Prince](https://www.blueprincegame.com/)
 - reading [Delicious in Dungeon](https://en.wikipedia.org/wiki/Delicious_in_Dungeon)
+- watching [Frieren](https://en.wikipedia.org/wiki/Frieren)
 
 ## Later on I'd like to...
 
 - spend more time understanding design tokens
 - learn [Phaser](https://phaser.io/) and get one or more of my small game ideas on the screen
 - resume learning Brazilian Portuguese
-- pick up where I left off with Brazilian Jiu Jitsu
+- pick up where I left off with Brazilian Jiu Jitsu, or maybe try a different combat sport
 - spend more time making stuff in [FL Studio](https://www.image-line.com/fl-studio/)
 - play all the games; some notable ones I'd like to check out:
     - [DELTARUNE chapters 3 and 4](https://deltarune.com/)
