@@ -16,7 +16,6 @@ This is a [now page](https://nownownow.com/about), a concept I nicked from [Stev
 - making this website better and more interesting, time allowing
 - learning as much basic Japanese as I can ahead of a big holiday next year
 - playing [Blue Prince](https://www.blueprincegame.com/)
-- reading [Delicious in Dungeon](https://en.wikipedia.org/wiki/Delicious_in_Dungeon)
 - watching [Hajime no Ippo](https://en.wikipedia.org/wiki/Hajime_no_Ippo)
 - watching [Star Trek](https://en.wikipedia.org/wiki/Star_Trek), from the beginning
 
