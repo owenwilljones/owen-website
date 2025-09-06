@@ -15,7 +15,6 @@ This is a [now page](https://nownownow.com/about), a concept I nicked from [Stev
     - planning bits of training to upskill my teammates on techy subjects
 - making this website better and more interesting, time allowing
 - learning as much basic Japanese as I can ahead of a big holiday next year
-- playing [Blue Prince](https://www.blueprincegame.com/)
 - watching [Hajime no Ippo](https://en.wikipedia.org/wiki/Hajime_no_Ippo)
 - watching [Star Trek](https://en.wikipedia.org/wiki/Star_Trek), from the beginning
 
@@ -28,6 +27,7 @@ This is a [now page](https://nownownow.com/about), a concept I nicked from [Stev
 - spend more time making stuff in [FL Studio](https://www.image-line.com/fl-studio/)
 - play all the games; some notable ones I'd like to check out:
     - [DELTARUNE chapters 3 and 4](https://deltarune.com/)
+    - [Hollow Knight: Silksong](https://hollowknightsilksong.com/)
     - [Clair Obscur: Expedition 33](https://en.wikipedia.org/wiki/Clair_Obscur:_Expedition_33)
     - [Void Stranger](https://se-made.com/voidstranger.html)
     - [UFO 50](https://50games.fun/)
