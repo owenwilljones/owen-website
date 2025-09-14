@@ -17,6 +17,7 @@ This is a [now page](https://nownownow.com/about), a concept I nicked from [Stev
 - learning as much basic Japanese as I can ahead of a big holiday next year
 - watching [Hajime no Ippo](https://en.wikipedia.org/wiki/Hajime_no_Ippo)
 - watching [Star Trek](https://en.wikipedia.org/wiki/Star_Trek), from the beginning
+- playing [Death Stranding](https://en.wikipedia.org/wiki/Death_Stranding)
 
 ## Later on I'd like to...
 
