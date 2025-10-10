@@ -11,11 +11,10 @@ This is a [now page](https://nownownow.com/about), a concept I nicked from [Stev
 ## At the moment I'm...
 
 - being a frontend developer for the GOV.UK Design System team at GDS; specifically right now I'm:
-    - finishing off an MVP of a GOV.UK brand guidelines website
-    - planning bits of training to upskill my teammates on techy subjects
+    - Updating the GOV.UK Frontend colour palette in response to the brand updates for GOV.UK
 - making this website better and more interesting, time allowing
 - learning as much basic Japanese as I can ahead of a big holiday next year
-- messing around with micro computer projects by way of retro handhelds and [Raspberry Pis](https://www.raspberrypi.com/)
+- building a bluetooth speaker out of a [Raspberry Pi](https://www.raspberrypi.com/)
 - watching [Hajime no Ippo](https://en.wikipedia.org/wiki/Hajime_no_Ippo)
 - watching [Star Trek](https://en.wikipedia.org/wiki/Star_Trek), from the beginning
 - playing [Death Stranding](https://en.wikipedia.org/wiki/Death_Stranding)
