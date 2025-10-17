@@ -12,6 +12,7 @@ This is a [now page](https://nownownow.com/about), a concept I nicked from [Stev
 
 - being a frontend developer for the GOV.UK Design System team at GDS; specifically right now I'm:
     - Updating the GOV.UK Frontend colour palette in response to the brand updates for GOV.UK
+    - Sorting things out in preparation to release GOV.UK Frontend 6.0.0s
 - making this website better and more interesting, time allowing
 - learning as much basic Japanese as I can ahead of a big holiday next year
 - building a bluetooth speaker out of a [Raspberry Pi](https://www.raspberrypi.com/)
