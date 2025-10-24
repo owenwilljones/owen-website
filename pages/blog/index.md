@@ -7,8 +7,8 @@ order: 3
 ---
 Sometimes I write stuff and put it online.
 
-## Weeknotes
+## Notes
 
-Weekly(?) reflections on my work and beyond over the past week.
+Reflections on my work and beyond.
 
 {% render 'macros/post-list', postList: collections.weeknotes %}
