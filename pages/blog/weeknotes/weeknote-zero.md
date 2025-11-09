@@ -14,7 +14,7 @@ At the same time, maybe the value of weeknotes isn't for other people. Maybe it'
 
 I think about something [my buddy Steve](https://visitmy.website/) writes whenever he shares a weeknote on LinkedIn:
 
->Writing weeknotes helps me reflect on the working week and improve my practice. 
+> Writing weeknotes helps me reflect on the working week and improve my practice.
 
 Makes sense to me.
 
@@ -36,7 +36,7 @@ I never really touched this work so I'll keep my thoughts on this brief and free
 
 We went to Liverpool, ran another event and basked in the glory. I used to work in event management as an office body and I could see how stressful it was operating stuff on site from the comfort of my desk. Being there as a volunteer you feel the intensity first hand. It's very tiring but the comradery that emerges from it is pleasant.
 
-I think we put on a good show, in particular I loved the powerful and challenging talk on sustainability in digital teams from the brilliant [Ishmael Burdeau](https://www.linkedin.com/in/ishmael-burdeau/). 
+I think we put on a good show, in particular I loved the powerful and challenging talk on sustainability in digital teams from the brilliant [Ishmael Burdeau](https://www.linkedin.com/in/ishmael-burdeau/).
 
 The social episodes during and after the event were very nice. It was great to catch up with my teammates from other parts of the UK who I don't get to see that often and to meet members of the community, notably [the chronically cheerful Josh from the BBC](https://www.joshtumath.uk/). I think after a very relaxed Friday and a full weekend I'm just about ready for the week ahead.
 

@@ -11,8 +11,8 @@ This is a [now page](https://nownownow.com/about), a concept I nicked from [Stev
 ## At the moment I'm...
 
 - being a frontend developer for the GOV.UK Design System team at GDS; specifically right now I'm:
-    - Updating the GOV.UK Frontend colour palette in response to the brand updates for GOV.UK
-    - Sorting things out in preparation to release GOV.UK Frontend 6.0.0s
+  - Updating the GOV.UK Frontend colour palette in response to the brand updates for GOV.UK
+  - Sorting things out in preparation to release GOV.UK Frontend 6.0.0s
 - making this website better and more interesting, time allowing
 - learning as much basic Japanese as I can ahead of a big holiday next year
 - building a bluetooth speaker out of a [Raspberry Pi](https://www.raspberrypi.com/)
@@ -28,9 +28,9 @@ This is a [now page](https://nownownow.com/about), a concept I nicked from [Stev
 - pick up where I left off with Brazilian Jiu Jitsu, or maybe try a different combat sport
 - spend more time making stuff in [FL Studio](https://www.image-line.com/fl-studio/)
 - play all the games; some notable ones I'd like to check out:
-    - [DELTARUNE chapters 3 and 4](https://deltarune.com/)
-    - [Hollow Knight: Silksong](https://hollowknightsilksong.com/)
-    - [Clair Obscur: Expedition 33](https://en.wikipedia.org/wiki/Clair_Obscur:_Expedition_33)
-    - [Void Stranger](https://se-made.com/voidstranger.html)
-    - [UFO 50](https://50games.fun/)
-    - [Nine Sols](https://shop.redcandlegames.com/projects/ninesols)
+  - [DELTARUNE chapters 3 and 4](https://deltarune.com/)
+  - [Hollow Knight: Silksong](https://hollowknightsilksong.com/)
+  - [Clair Obscur: Expedition 33](https://en.wikipedia.org/wiki/Clair_Obscur:_Expedition_33)
+  - [Void Stranger](https://se-made.com/voidstranger.html)
+  - [UFO 50](https://50games.fun/)
+  - [Nine Sols](https://shop.redcandlegames.com/projects/ninesols)

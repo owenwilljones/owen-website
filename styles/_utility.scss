@@ -3,9 +3,9 @@
 
 // colours
 $primary-colour: #202020;
-$text-colour: #FFFFFF;
-$link-colour: #9BFF8B;
-$focus-colour: #D1EEEE;
+$text-colour: #ffffff;
+$link-colour: #9bff8b;
+$focus-colour: #d1eeee;
 $nav-colour: #582019;
 
 // width
@@ -18,7 +18,7 @@ $content-width: 700px;
     $value: $value * 1px;
   }
 
-  @return calc(($value / 16px) * 1rem); 
+  @return calc(($value / 16px) * 1rem);
 }
 
 // media queries
@@ -27,7 +27,7 @@ $content-width: 700px;
   $breakpoint-map: (
     s: 320px,
     m: 641px,
-    l: 961px
+    l: 961px,
   );
 
   @media screen and (min-width: map.get($breakpoint-map, $breakpoint)) {

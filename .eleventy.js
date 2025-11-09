@@ -17,41 +17,41 @@ module.exports = function (eleventyConfig) {
       return async (data) => {
         let result = sass.compileString(inputContent, {
           loadPaths: [parsed.dir],
-          style: 'compressed'
+          style: "compressed",
         });
 
         return result.css;
       };
-    }
+    },
   });
 
   eleventyConfig.addPlugin(feedPlugin, {
-		type: "rss",
-		outputPath: "/feed.xml",
-		collection: {
-			name: "weeknotes",
-			limit: 0,
-		},
-		metadata: {
-			language: "en",
-			title: "Owen Jones is online",
-			subtitle: "Owen Jones' website and blog",
-			base: "https://owenis.online/",
-			author: {
-				name: "Owen Jones"
-			}
-		}
-	});
+    type: "rss",
+    outputPath: "/feed.xml",
+    collection: {
+      name: "weeknotes",
+      limit: 0,
+    },
+    metadata: {
+      language: "en",
+      title: "Owen Jones is online",
+      subtitle: "Owen Jones' website and blog",
+      base: "https://owenis.online/",
+      author: {
+        name: "Owen Jones",
+      },
+    },
+  });
 
-  eleventyConfig.addCollection("nav", function(collectionsApi) {
-    return collectionsApi.getFilteredByTags("nav").sort(function(a, b) {
-      return a.data.order - b.data.order
+  eleventyConfig.addCollection("nav", function (collectionsApi) {
+    return collectionsApi.getFilteredByTags("nav").sort(function (a, b) {
+      return a.data.order - b.data.order;
     });
   });
 
-  eleventyConfig.addCollection("footer", function(collectionsApi) {
-    return collectionsApi.getFilteredByTags("footer").sort(function(a, b) {
-      return a.data.order - b.data.order
+  eleventyConfig.addCollection("footer", function (collectionsApi) {
+    return collectionsApi.getFilteredByTags("footer").sort(function (a, b) {
+      return a.data.order - b.data.order;
     });
   });
 };

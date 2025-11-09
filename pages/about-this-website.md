@@ -6,7 +6,7 @@ tags: footer
 order: 3
 ---
 
-This page is a broad summary of this website's technical and information architecture. Think of it as a sort of digital [colophon](https://en.wikipedia.org/wiki/Colophon_(publishing)).
+This page is a broad summary of this website's technical and information architecture. Think of it as a sort of digital [colophon](<https://en.wikipedia.org/wiki/Colophon_(publishing)>).
 
 My aim with this page is to outline technical and editorial choices for this website and why. None of these choices are set in stone and can be changed at any time, effort pending. If you think a choice I've made on this website is ill informed or that there's a better choice, please feel free to reach out.
 
@@ -32,7 +32,7 @@ What I mean by this is avoiding supporting companies or projects that do things 
 
 - regularly mistreating or exploiting their employees
 - discriminate against a particular group as an operational policy
-- contribute towards damage to the environment 
+- contribute towards damage to the environment
 - actively support other organisations doing any of the above
 
 ## Tech
