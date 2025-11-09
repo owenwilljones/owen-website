@@ -47,6 +47,8 @@ This website uses [Sass](https://sass-lang.com/documentation/) for CSS pre-proce
 
 I use [prettier](https://prettier.io/) to manage this website's code quality and consistency.
 
+I use [linkinator](https://github.com/JustinBeckwith/linkinator) for link checking to reduce the risk of my website content getting stale by way of broken links.
+
 I currently don't use any client side Javascript on this website, so I don't have a strategy for that. I don't have the need for any client-side functionality or rendering and make the added choice not to use it for simplicity and performance.
 
 ## Hosting
