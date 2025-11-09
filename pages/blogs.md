@@ -11,7 +11,6 @@ These are blogs and personal websites from friends and colleagues that I think a
 - [Chris Ballantine-Thomas](https://chrisballantinethomas.co.uk/)
 - [Vanita Barrett-Smith](https://vanitabarrett.co.uk/)
 - [beeps](https://beeps.website/)
-- [Caspar Below](https://belowtech.uk/)
 - [David Biddle](https://davidbiddle.co.uk/)
 - [Oliver Byford](https://obyford.com/)
 - [Patrick Cartlidge](https://patworld.world/)
