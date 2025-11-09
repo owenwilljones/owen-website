@@ -14,7 +14,6 @@ Here are some things I've worked on and am currently working on that I think are
 
 I'm continuing to iterate this website. I don't know yet if I'll use it as anything other than a tiny internet presence but I've got _ideas_. A few things on my mind:
 
-- Linting
 - Paginated blog post lists
 - Content other than a digital CV and weeknotes
 - An ethical analytics setup

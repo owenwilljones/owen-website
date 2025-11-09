@@ -45,6 +45,8 @@ I've authored the markup of this website using semantic HTML as it takes a lot o
 
 This website uses [Sass](https://sass-lang.com/documentation/) for CSS pre-processing. I picked Sass and more generally CSS with pre-processing rather than other approaches like plain CSS or CSS-in-JS partly out of personal preference and familiarity and partly because it means on the client-side I'm using plain CSS, which is more robust than CSS-in-JS, whilst the pre-processor means I can organise my styling code more pleasantly and lines up neatly with Eleventy's build step.
 
+I use [prettier](https://prettier.io/) to manage this website's code quality and consistency.
+
 I currently don't use any client side Javascript on this website, so I don't have a strategy for that. I don't have the need for any client-side functionality or rendering and make the added choice not to use it for simplicity and performance.
 
 ## Hosting
