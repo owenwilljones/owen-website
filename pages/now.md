@@ -10,15 +10,15 @@ This is a [now page](https://nownownow.com/about), a concept I nicked from [Stev
 
 ## At the moment I'm...
 
-- being a frontend developer for the GOV.UK Design System team at GDS; specifically right now I'm:
-  - Updating the GOV.UK Frontend colour palette in response to the brand updates for GOV.UK
+- being a frontend developer for the GOV.UK Design System team at GDS; specifically right now I'm:s
   - Sorting things out in preparation to release GOV.UK Frontend 6.0.0s
 - making this website better and more interesting, time allowing
 - learning as much basic Japanese as I can ahead of a big holiday next year
-- building a bluetooth speaker out of a [Raspberry Pi](https://www.raspberrypi.com/)
+- trying to build a bluetooth speaker out of a [Raspberry Pi](https://www.raspberrypi.com/)
 - watching [Hajime no Ippo](https://en.wikipedia.org/wiki/Hajime_no_Ippo)
 - watching [Star Trek](https://en.wikipedia.org/wiki/Star_Trek), from the beginning
 - playing [Death Stranding](https://en.wikipedia.org/wiki/Death_Stranding)
+- playing [Öoo](https://store.steampowered.com/app/2721890/oo/)
 
 ## Later on I'd like to...
 
@@ -32,5 +32,3 @@ This is a [now page](https://nownownow.com/about), a concept I nicked from [Stev
   - [Hollow Knight: Silksong](https://hollowknightsilksong.com/)
   - [Clair Obscur: Expedition 33](https://en.wikipedia.org/wiki/Clair_Obscur:_Expedition_33)
   - [Void Stranger](https://se-made.com/voidstranger.html)
-  - [UFO 50](https://50games.fun/)
-  - [Nine Sols](https://shop.redcandlegames.com/projects/ninesols)
