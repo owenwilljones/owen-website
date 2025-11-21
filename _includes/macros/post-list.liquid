@@ -1,5 +1,11 @@
+{%- assign reversedPosts = posts | reverse -%}
+
+{% if limit -%}
+  {%- assign reversedPosts = reversedPosts | slice: 0, limit -%}
+{%- endif -%}
+
 <ul class="post-list">
-{% for post in postList reversed -%}
+{% for post in reversedPosts -%}
   <li class="post-list__post">
     <h3 class="post-list__post-title">
       <a href="{{ post.url }}">{{ post.data.title }}</a>

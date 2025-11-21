@@ -12,4 +12,6 @@ Sometimes I write stuff and put it online.
 
 Reflections on my work and beyond.
 
-{% render 'macros/post-list', postList: collections.weeknotes %}
+{% render 'macros/post-list', posts: collections.weeknotes, limit: 5 %}
+
+[See all notes](/pages/blog/weeknotes)
