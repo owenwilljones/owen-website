@@ -17,6 +17,7 @@ These are blogs and personal websites from friends and colleagues that I think a
 - [David Cox](https://dav-idc.com/)
 - [Lewis Darlow](https://lewisdarlow.com/)
 - [Charlotte Downs](https://cdownsdesign.com/)
+- [Ben Eskola](https://eskola.uk/)
 - [Caylee Farndon-Taylor](https://cayleeft.com/)
 - [Marina Filiba](https://www.marinafiliba.com/about)
 - [Nooshu (Matt Hobbs)](https://nooshu.com/)
