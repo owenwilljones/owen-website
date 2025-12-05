@@ -14,6 +14,7 @@ These are blogs and personal websites from friends and colleagues that I think a
 - [David Biddle](https://davidbiddle.co.uk/)
 - [Oliver Byford](https://obyford.com/)
 - [Patrick Cartlidge](https://patworld.world/)
+- [Nick Colley](https://nickcolley.co.uk/)
 - [David Cox](https://dav-idc.com/)
 - [Lewis Darlow](https://lewisdarlow.com/)
 - [Charlotte Downs](https://cdownsdesign.com/)
