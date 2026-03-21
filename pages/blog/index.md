@@ -10,7 +10,7 @@ Sometimes I write stuff and put it online.
 
 ## Notes
 
-Reflections on my work and beyond.
+Reflections on my work and beyond. I don't write these very often anymore but they're still here.
 
 {% render 'macros/post-list', posts: collections.weeknotes, limit: 5 %}
 
