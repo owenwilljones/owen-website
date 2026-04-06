@@ -69,7 +69,7 @@ I've tried to differentiate different headings and body text by size that clearl
 
 ## Content
 
-Content on this website is written in Markdown, which Eleventy processes into HTML which becomes available on this website as individual pages. There isn't really any rhyme or reason as to when content is published. I try to maintain a broad weekly schedule for my weeknotes but not for anything else I write.
+Content on this website is written in Markdown, which Eleventy processes into HTML which becomes available on this website as individual pages. There isn't really any rhyme or reason as to when content is published.
 
 I don't follow any content style guide when I write and typically just follow my heart with my content.
 
