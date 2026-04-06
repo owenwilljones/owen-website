@@ -35,12 +35,14 @@ Some things that I'm interested in my professional and personal life.
 - Accessibility
 - Sustainability
 - Design systems
+- Data and data engineering
 - Iterative work practices
 - Wellbeing in the workplace ([My employer has blogged about this](https://gds.blog.gov.uk/2016/05/25/its-ok-to-say-whats-ok/))
 - Social justice
+- Teaching
+- Communicating technical concepts to people who might not be technically versed
 - Music
 - Video games
 - Video game music
 - Cooking
 - Coffee
-- Brazilian Jiu Jitsu
