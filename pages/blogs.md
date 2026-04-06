@@ -35,6 +35,7 @@ These are blogs and personal websites from friends and colleagues that I think a
 - [Matteo Remondini](https://www.teoremo.com/)
 - [Frankie Roberto](https://www.frankieroberto.com/)
 - [Engiqueer (Joe Roberts)](https://www.engiqueer.net/)
+- [Callum Ryan](https://www.calumryan.com/)
 - [Robyn Schlotfeldt](https://robynschlotfeldt.com/)
 - [Custard Doughnuts (Andy Sellick)](https://www.custarddoughnuts.co.uk/)
 - [Nancy Smallwood](https://www.nancy-smallwood.co.uk/)
