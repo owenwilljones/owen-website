@@ -1,26 +1,26 @@
-@use "utility";
+@use "utility" as *;
 
 .width-container {
-  max-width: utility.$max-width;
+  max-width: $max-width;
   margin: 0 20px;
 
-  @include utility.media-query(l) {
+  @include media-query(l) {
     margin: 0 auto;
   }
 }
 
 .width-container__content {
-  @include utility.media-query(m) {
-    max-width: utility.$content-width;
+  @include media-query(m) {
+    max-width: $content-width;
   }
 }
 
 header {
   padding: 20px 0;
-  background-color: utility.$nav-colour;
+  background-color: $nav-colour;
   margin: 0 0 20px;
   font-weight: 700;
-  border-bottom: 1px solid utility.$text-colour;
+  border-bottom: $border-width solid $border-colour;
 }
 
 main {
@@ -28,14 +28,14 @@ main {
 }
 
 footer {
-  border-top: 1px solid utility.$text-colour;
+  border-top: $border-width solid $border-colour;
   padding-top: 20px;
 
   ul {
     list-style: none;
     padding: 0;
 
-    @include utility.media-query(m) {
+    @include media-query(m) {
       li {
         display: inline-block;
         margin-right: 20px;

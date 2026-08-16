@@ -1,8 +1,9 @@
-@use "utility";
+@use "utility" as *;
 
 .logo {
-  font-size: utility.remify(32px);
-  color: utility.$text-colour;
+  @include title-left-border;
+  font-size: remify(32px);
+  color: $border-colour;
   text-decoration: none;
 
   &:hover {
@@ -28,5 +29,9 @@ nav {
     &:last-of-type {
       margin-right: 0;
     }
+  }
+
+  a {
+    color: $text-colour;
   }
 }

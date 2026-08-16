@@ -4,13 +4,14 @@
 // colours
 $primary-colour: #202020;
 $text-colour: #ffffff;
-$link-colour: #9bff8b;
-$focus-colour: #d1eeee;
-$nav-colour: #582019;
+$link-colour: #4efcf9;
+$nav-colour: #133a1a;
+$border-colour: #8cf29f;
 
-// width
+// widths
 $max-width: 900px;
 $content-width: 700px;
+$border-width: 7px;
 
 // px to rem function
 @function remify($value) {
@@ -33,4 +34,9 @@ $content-width: 700px;
   @media screen and (min-width: map.get($breakpoint-map, $breakpoint)) {
     @content;
   }
+}
+
+@mixin title-left-border() {
+  border-left: $border-width solid;
+  padding-left: 15px;
 }

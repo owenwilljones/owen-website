@@ -1,4 +1,4 @@
-@use "utility";
+@use "utility" as *;
 
 h1,
 h2,
@@ -10,31 +10,32 @@ ul {
 }
 
 h1 {
-  font-size: utility.remify(52px);
+  @include title-left-border;
+  font-size: remify(52px);
   font-weight: 500;
   line-height: 1.3;
 }
 
 h2,
 h2 a {
-  font-size: utility.remify(36px);
+  font-size: remify(36px);
   font-weight: 400;
 }
 
 h3,
 h3 a {
-  font-size: utility.remify(28px);
+  font-size: remify(28px);
   font-weight: 400;
 }
 
 p {
-  font-size: utility.remify(20px);
+  font-size: remify(20px);
   font-weight: 300;
 }
 
 a {
-  font-size: utility.remify(20px);
-  color: utility.$link-colour;
+  font-size: remify(20px);
+  color: $link-colour;
   text-decoration-thickness: max(1px, 0.0625rem);
   text-underline-offset: 0.16em;
 
@@ -45,7 +46,7 @@ a {
 
 ul,
 ol {
-  font-size: utility.remify(20px);
+  font-size: remify(20px);
   padding: 0 0 0 20px;
 }
 
